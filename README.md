@@ -12,16 +12,18 @@ Initially, I planned on creating a full chess program, with a GUI and functional
 ## Learning Outcomes: ##
  * Learnt that Python is pretty as f*uuuuuuu*ck
  
- * Homebrewed a Metrics Tracking System
- * Homebrewed a World Representation Class
- * Homebrewed a Chess Tile Class
+ * Homebrewed a:
+    * Metrics Tracking System
+    * World Representation Class
+    * Chess Tile Class
  
- * *Leveled up in Coding Style!*
- * *Leveled up in Multi Module Python Debugging!*
- * *Leveled up in Multiple Class Design!*
- * *Leveled up in Class Method Development!*
+ * *Leveled up in*:
+    * *Python Coding Style!*
+    * *Python Multi-Module Debugging!*
+    * *Python Multi-Class Design!*
+    * *Python Class Method Development!*
  
- * Gained familiarity with
+ * Gained familiarity with:
     * pygame.surface
     * pygame.rect
     * pygame.clock
